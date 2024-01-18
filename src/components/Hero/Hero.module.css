@@ -6,7 +6,8 @@
     align-items: center;
     justify-content: space-between;
     z-index: 1;
-    margin: 49px 10% 0
+    margin: 49px 10% 0;
+    overflow-x: clip;
 }
 
 .content {

@@ -4,6 +4,8 @@ import { About } from './components/About/About'
 import { Hero } from './components/Hero/Hero'
 import { Navbar } from './components/Navbar/Navbar'
 import { Experience } from './components/Experience/Experience'
+import { Projects } from './components/Projects/Projects'
+import { Footer } from './components/Footer/Footer'
 
 function App() {
 
@@ -14,6 +16,8 @@ function App() {
         <Hero />
         <About />
         <Experience />
+        <Projects />
+        <Footer />
       </div>
     </>
   )
